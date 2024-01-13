@@ -29,5 +29,6 @@ public class Task6 {
                 System.out.println("FALSE");
             }
         }
+        scanner.close();
     }
 }

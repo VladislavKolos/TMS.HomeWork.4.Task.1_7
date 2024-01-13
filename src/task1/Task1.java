@@ -22,9 +22,8 @@ public class Task1 {
             array[i] = var;
         }
         for (int i = 0; i < array.length; i++) {
-
         }
-        System.out.print(Arrays.toString(array));
+        System.out.println(Arrays.toString(array));
         scanner.close();
     }
 }
