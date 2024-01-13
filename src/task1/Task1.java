@@ -8,7 +8,7 @@ public class Task1 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter array length: ");
         int length = scanner.nextInt();
-        int array[] = new int[length];
+        int[] array = new int[length];
         for (int i = 0; i < array.length; i++) {
             array[i] = (int) (Math.random() * 100);
         }
@@ -22,8 +22,9 @@ public class Task1 {
             array[i] = var;
         }
         for (int i = 0; i < array.length; i++) {
-            System.out.print(" " + array[i]);
+
         }
+        System.out.print(Arrays.toString(array));
         scanner.close();
     }
 }

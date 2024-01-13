@@ -7,7 +7,7 @@ public class Task2 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter array length: ");
         int length = scanner.nextInt();
-        int array[] = new int[length];
+        int[] array = new int[length];
         System.out.println("Enter array elements: ");
         for (int i = 0; i < array.length; i++) {
             array[i] = scanner.nextInt();

@@ -10,7 +10,7 @@ public class Task6 {
         if (length <= 0) {
             System.out.println("re-Enter ");
         } else {
-            int array[] = new int[length];
+            int[] array = new int[length];
             System.out.println("Enter array elements: ");
             for (int i = 0; i < array.length; i++) {
                 array[i] = scanner.nextInt();

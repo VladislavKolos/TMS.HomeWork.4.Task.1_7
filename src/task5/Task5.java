@@ -11,7 +11,7 @@ public class Task5 {
         if (length <= 0) {
             System.out.println("re-Enter");
         } else {
-            int array[] = new int[length];
+            int[] array = new int[length];
             for (int i = 0; i < array.length; i++) {
                 array[i] = (int) (Math.random() * 100);
             }
