@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e506c37-ab44-473e-8e5f-ac4290bf8aff" name="Changes" comment="Init commit">
+    <list default="true" id="5e506c37-ab44-473e-8e5f-ac4290bf8aff" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task6/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task6/Task6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/task7/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task7/Task7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,29 +32,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Task1.executor": "Run",
-    "Application.Task2.executor": "Run",
-    "Application.Task3.executor": "Run",
-    "Application.Task4.executor": "Run",
-    "Application.Task5.executor": "Run",
-    "Application.Task6.executor": "Run",
-    "Application.Task7.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Admin/TMS.HomeWork.4.Task.1_7/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task7.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Admin/TMS.HomeWork.4.Task.1_7/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Task1">
+}</component>
+  <component name="RunManager" selected="Application.Task7">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task1.Task1" />
       <module name="TMS.HomeWork.4.Task.1_7" />
@@ -124,8 +122,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task7" />
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task6" />
@@ -149,6 +147,8 @@
       <updated>1704880301155</updated>
       <workItem from="1704880302622" duration="27341000" />
       <workItem from="1705158586248" duration="5890000" />
+      <workItem from="1705165502502" duration="139000" />
+      <workItem from="1705233864264" duration="15926000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit">
       <option name="closed" value="true" />
@@ -166,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705159406081</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Init commit">
+      <option name="closed" value="true" />
+      <created>1705165568300</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705165568300</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
